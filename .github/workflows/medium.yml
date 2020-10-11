@@ -1,5 +1,7 @@
 name: medium blog posts
 on:
+  repository_dispatch:
+    types: do-something
   schedule:
     # Runs every hour
     - cron: "0 * * * *"
