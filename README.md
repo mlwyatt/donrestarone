@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I love all things mechanical, from swiss watches to sports cars.**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
