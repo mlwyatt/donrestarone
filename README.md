@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.restarone.com/](https://www.restarone.com/)
 
-- 📝 I regulary write articles on [https://medium.com/@shashikejayatunge](https://medium.com/@shashikejayatunge)
+- 📝 I regulary write articles on [https://restarone.medium.com/](https://restarone.medium.com/)
 
 - 💬 Ask me about **Rails, React/React Native, Javascript, Phoenix, Elixir**
 
@@ -43,7 +43,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/shashike-jayatunge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shashike-jayatunge" height="30" width="40" /></a>
 <a href="https://instagram.com/restarone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="restarone" height="30" width="40" /></a>
-<a href="https://medium.com/@shashikejayatunge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shashikejayatunge" height="30" width="40" /></a>
+<a href="https://restarone.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@restarone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
