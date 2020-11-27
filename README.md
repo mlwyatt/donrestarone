@@ -27,6 +27,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Provision a Cheap PostgreSQL Database in AWS EC2](https://medium.com/better-programming/how-to-provision-a-cheap-postgresql-database-in-aws-ec2-9984ff3ddaea?source=rss-3e6963362442------2)
 - [Bishop: a free web app monitoring platform](https://levelup.gitconnected.com/bishop-a-free-web-app-monitoring-platform-d3880f56e8f6?source=rss-3e6963362442------2)
 - [Build an Object Classification App](https://medium.com/better-programming/build-an-object-classification-app-392b9db7839c?source=rss-3e6963362442------2)
 - [A Checklist for First-Time Mobile App Developers](https://medium.com/better-programming/a-checklist-for-first-time-mobile-app-developers-daa5c964e63f?source=rss-3e6963362442------2)
@@ -36,7 +37,6 @@
 - [5 lessons I learned from building a SaaS product from scratch](https://levelup.gitconnected.com/5-lessons-i-learned-from-building-a-saas-product-from-scratch-627a101d5381?source=rss-3e6963362442------2)
 - [Building a Facial Recognition Lock Client With Raspberry Pi](https://medium.com/swlh/building-a-facial-recognition-lock-client-with-raspberry-pi-ad06319be88f?source=rss-3e6963362442------2)
 - [How to Boost Productivity as a Full-Stack Engineer in a Small Team](https://medium.com/swlh/how-to-boost-your-productivity-as-a-lead-full-stack-engineer-in-a-small-team-3a182c36902a?source=rss-3e6963362442------2)
-- [Using a Raspberry Pi for Prototyping Web Applications](https://medium.com/swlh/using-a-raspberry-pi-for-prototyping-web-applications-with-nodejs-rails-ngrok-ec35e820fd85?source=rss-3e6963362442------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
