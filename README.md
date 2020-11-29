@@ -36,7 +36,6 @@
 - [Test-Driven Development With Stripe and Ruby on Rails](https://medium.com/better-programming/test-driven-development-with-stripe-and-ruby-on-rails-cfc81e3e261?source=rss-3e6963362442------2)
 - [5 lessons I learned from building a SaaS product from scratch](https://levelup.gitconnected.com/5-lessons-i-learned-from-building-a-saas-product-from-scratch-627a101d5381?source=rss-3e6963362442------2)
 - [Building a Facial Recognition Lock Client With Raspberry Pi](https://medium.com/swlh/building-a-facial-recognition-lock-client-with-raspberry-pi-ad06319be88f?source=rss-3e6963362442------2)
-- [How to Boost Productivity as a Full-Stack Engineer in a Small Team](https://medium.com/swlh/how-to-boost-your-productivity-as-a-lead-full-stack-engineer-in-a-small-team-3a182c36902a?source=rss-3e6963362442------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
