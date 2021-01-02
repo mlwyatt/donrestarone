@@ -34,7 +34,6 @@
 - [Build an Object Classification App](https://medium.com/better-programming/build-an-object-classification-app-392b9db7839c?source=rss-3e6963362442------2)
 - [A Checklist for First-Time Mobile App Developers](https://medium.com/better-programming/a-checklist-for-first-time-mobile-app-developers-daa5c964e63f?source=rss-3e6963362442------2)
 - [Building an effective portfolio website](https://levelup.gitconnected.com/building-an-effective-portfolio-website-a5b214167a49?source=rss-3e6963362442------2)
-- [How I Overcame Insomnia](https://medium.com/curious/how-i-overcame-insomnia-ba63d624fd85?source=rss-3e6963362442------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
