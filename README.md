@@ -27,13 +27,13 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using React 17 With Phoenix 1.5](https://medium.com/better-programming/using-react-17-with-phoenix-1-5-1b445526c739?source=rss-3e6963362442------2)
 - [Hotwire, ActionText, and Rails 6](https://medium.com/better-programming/hotwire-actiontext-and-rails-6-be025dce7d87?source=rss-3e6963362442------2)
 - [Tips on Passing Your AWS Certification](https://medium.com/better-programming/tips-on-passing-your-aws-certification-26fd95f3ee01?source=rss-3e6963362442------2)
 - [How to Provision a Cheap PostgreSQL Database in AWS EC2](https://medium.com/better-programming/how-to-provision-a-cheap-postgresql-database-in-aws-ec2-9984ff3ddaea?source=rss-3e6963362442------2)
 - [Bishop: a free web app monitoring platform](https://levelup.gitconnected.com/bishop-a-free-web-app-monitoring-platform-d3880f56e8f6?source=rss-3e6963362442------2)
 - [Build an Object Classification App](https://medium.com/better-programming/build-an-object-classification-app-392b9db7839c?source=rss-3e6963362442------2)
 - [A Checklist for First-Time Mobile App Developers](https://medium.com/better-programming/a-checklist-for-first-time-mobile-app-developers-daa5c964e63f?source=rss-3e6963362442------2)
-- [Building an effective portfolio website](https://levelup.gitconnected.com/building-an-effective-portfolio-website-a5b214167a49?source=rss-3e6963362442------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
