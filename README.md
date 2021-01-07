@@ -32,7 +32,6 @@
 - [Hotwire, ActionText, and Rails 6](https://medium.com/better-programming/hotwire-actiontext-and-rails-6-be025dce7d87?source=rss-3e6963362442------2)
 - [Tips on Passing Your AWS Certification](https://medium.com/better-programming/tips-on-passing-your-aws-certification-26fd95f3ee01?source=rss-3e6963362442------2)
 - [How to Provision a Cheap PostgreSQL Database in AWS EC2](https://medium.com/better-programming/how-to-provision-a-cheap-postgresql-database-in-aws-ec2-9984ff3ddaea?source=rss-3e6963362442------2)
-- [Bishop: a free web app monitoring platform](https://levelup.gitconnected.com/bishop-a-free-web-app-monitoring-platform-d3880f56e8f6?source=rss-3e6963362442------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
