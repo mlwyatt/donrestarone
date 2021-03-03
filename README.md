@@ -27,12 +27,12 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Profitable Software Development Consulting Business](https://medium.com/swlh/how-i-built-a-profitable-software-development-consulting-business-61e841f72903?source=rss-3e6963362442------2)
 - [Search Engine and Social Media Optimization for Web Developers](https://javascript.plainenglish.io/search-engine-and-social-media-optimization-for-web-developers-9d0343cd89e8?source=rss-3e6963362442------2)
 - [Lessons Learned From Migrating a Large PostgreSQL Database From EC2 to RDS](https://betterprogramming.pub/lessons-learned-from-migrating-a-large-postgresql-database-from-ec2-to-rds-1215119f8c36?source=rss-3e6963362442------2)
 - [Rails 6 Development With Docker](https://betterprogramming.pub/rails-6-development-with-docker-55437314a1ad?source=rss-3e6963362442------2)
 - [Using React 17 With Phoenix 1.5](https://betterprogramming.pub/using-react-17-with-phoenix-1-5-1b445526c739?source=rss-3e6963362442------2)
 - [Hotwire, ActionText, and Rails 6](https://betterprogramming.pub/hotwire-actiontext-and-rails-6-be025dce7d87?source=rss-3e6963362442------2)
-- [Tips on Passing Your AWS Certification](https://betterprogramming.pub/tips-on-passing-your-aws-certification-26fd95f3ee01?source=rss-3e6963362442------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
