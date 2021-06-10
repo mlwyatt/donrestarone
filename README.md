@@ -27,9 +27,9 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet Violet Rails](https://restarone.medium.com/meet-violet-rails-535cd962449e?source=rss-3e6963362442------2)
 - [How I Built a Profitable Software Development Consulting Business](https://medium.com/swlh/how-i-built-a-profitable-software-development-consulting-business-61e841f72903?source=rss-3e6963362442------2)
 - [Search Engine and Social Media Optimization for Web Developers](https://javascript.plainenglish.io/search-engine-and-social-media-optimization-for-web-developers-9d0343cd89e8?source=rss-3e6963362442------2)
-- [Lessons Learned From Migrating a Large PostgreSQL Database From EC2 to RDS](https://betterprogramming.pub/lessons-learned-from-migrating-a-large-postgresql-database-from-ec2-to-rds-1215119f8c36?source=rss-3e6963362442------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
