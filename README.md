@@ -5,17 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donrestarone" alt="donrestarone" /></a> </p>
 
-- 🔭 I’m currently working on [Lenny.Mobi, a telecom platform](https://www.lenny.mobi/)
+- 🔭 I’m currently working on [Restarone Solutions, a dev shop](https://www.restarone.com/)
 
-- 🌱 I’m currently learning **AWS**
-
-- 👯 I’m looking to collaborate on [Restarone Solutions, a dev shop](https://www.restarone.com/)
-
-- 🤝 I’m looking for help with [Detectr, an AI object detection app](https://github.com/donrestarone/object-detectr)
+- 👯 I’m looking to collaborate on [Violet Rails, a WordPress alternative for Ruby devs](https://github.com/restarone/violet_rails/)
 
 - 👨‍💻 All of my projects are available at [https://www.restarone.com/](https://www.restarone.com/)
 
 - 📝 I regulary write articles on [https://restarone.medium.com/](https://restarone.medium.com/)
+
 
 - 💬 Ask me about **Rails, React/React Native, Javascript, Phoenix, Elixir**
 
@@ -23,7 +20,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shashike-jayatunge/](https://www.linkedin.com/in/shashike-jayatunge/)
 
-- ⚡ Fun fact **I love all things mechanical, from swiss watches to sports cars.**
+- ⚡ Fun fact **I love all things mechanical, from mechanical watches to sports cars.**
+- :camera: Follow me on Instagram [https://www.instagram.com/donrestarone/](https://www.instagram.com/donrestarone/)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
