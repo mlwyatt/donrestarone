@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Rails, React/React Native, Javascript, Phoenix, Elixir**
 
-- 📫 How to reach me **contact@restarone.com**
+- 📫 Drop me a line at **contact@restarone.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shashike-jayatunge/](https://www.linkedin.com/in/shashike-jayatunge/)
 
