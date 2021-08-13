@@ -20,8 +20,10 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shashike-jayatunge/](https://www.linkedin.com/in/shashike-jayatunge/)
 
-- ⚡ Fun fact **I love all things mechanical, from mechanical watches to sports cars.**
 - :camera: Follow me on Instagram [https://www.instagram.com/donrestarone/](https://www.instagram.com/donrestarone/)
+
+- ⚡ Fun fact **I love all things mechanical, from mechanical watches to sports cars.**
+
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
