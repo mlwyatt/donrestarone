@@ -27,6 +27,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From KFC to crushing it](https://restarone.medium.com/from-kfc-to-crushing-it-33ba1b641631?source=rss-3e6963362442------2)
 - [How To Stand Out From the Crowd as a New Developer](https://betterprogramming.pub/how-to-stand-out-from-the-crowd-as-a-new-developer-843f4e9fdeb7?source=rss-3e6963362442------2)
 - [Meet Violet Rails](https://restarone.medium.com/meet-violet-rails-535cd962449e?source=rss-3e6963362442------2)
 - [How I Built a Profitable Software Development Consulting Business](https://medium.com/swlh/how-i-built-a-profitable-software-development-consulting-business-61e841f72903?source=rss-3e6963362442------2)
@@ -36,7 +37,6 @@
 - [Using React 17 With Phoenix 1.5](https://betterprogramming.pub/using-react-17-with-phoenix-1-5-1b445526c739?source=rss-3e6963362442------2)
 - [Hotwire, ActionText, and Rails 6](https://betterprogramming.pub/hotwire-actiontext-and-rails-6-be025dce7d87?source=rss-3e6963362442------2)
 - [Tips on Passing Your AWS Certification](https://betterprogramming.pub/tips-on-passing-your-aws-certification-26fd95f3ee01?source=rss-3e6963362442------2)
-- [How to Provision a Cheap PostgreSQL Database in AWS EC2](https://betterprogramming.pub/how-to-provision-a-cheap-postgresql-database-in-aws-ec2-9984ff3ddaea?source=rss-3e6963362442------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
